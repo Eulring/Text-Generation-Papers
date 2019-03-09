@@ -11,7 +11,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2018 ___Survey of the state of the art in natural language generation: Core tasks, applications and evaluation___ [[link](https://www.jair.org/index.php/jair/article/view/11173)]
 
----
+
 
 ## __Main__
 
@@ -34,7 +34,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2019 ___Non-Monotonic Sequential Text Generation___ [[pdf](https://arxiv.org/pdf/1902.02192)]
 
----
+
 
 ## __VAE__
 - 2013 ___Auto-encoding variational bayes___ [[pdf](https://arxiv.org/pdf/1312.6114.pdf)] __(VAE)__
@@ -45,7 +45,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2018 ___Unsupervised natural language generation with denoising autoencoders___ [[pdf](https://arxiv.org/pdf/1804.07899)]
 
----
+
 
 ## __GAN__
 - 2016 ___Gans for sequences of discrete elements with the gumbel-softmax distribution___ [[pdf](https://arxiv.org/pdf/1611.04051.pdf)] __(Gumbel-Softmax)__
