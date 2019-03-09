@@ -16,7 +16,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 ## __Main__
 
-### Classical
+#### Classical
 - 1997 ___Long short-term memory___ [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)] __(LSTM)__
 
 - 2003 ___A neural probabilistic language model___ [[pdf](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)] __(NNLM)__
@@ -31,7 +31,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2015 ___Scheduled sampling for sequence prediction with recurrent neural networks___ [[pdf](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)]
 
-### Recently
+#### Recently
 
 - 2019 ___Non-Monotonic Sequential Text Generation___ [[pdf](https://arxiv.org/pdf/1902.02192)]
 
