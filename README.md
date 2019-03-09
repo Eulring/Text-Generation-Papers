@@ -1,6 +1,7 @@
 # Text-Generation-Papers
 Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / __Summarization__
 
+(working on it ......)
 
 ## __Survey__
 - 2017 ___Neural text generation: A practical guide___ [[pdf](https://arxiv.org/pdf/1711.09534.pdf)]
