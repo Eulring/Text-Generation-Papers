@@ -4,6 +4,9 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 (working on it ......)
 
 ## __Survey__
+
+- 2016 ___Tutorial on variational autoencoders___ [[pdf](https://arxiv.org/pdf/1606.05908.pdf)]
+
 - 2017 ___Neural text generation: A practical guide___ [[pdf](https://arxiv.org/pdf/1711.09534.pdf)]
 
 - 2018 ___Survey of the state of the art in natural language generation: Core tasks, applications and evaluation___ [[pdf](https://www.jair.org/index.php/jair/article/download/11173/26378)]
