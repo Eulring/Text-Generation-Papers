@@ -67,3 +67,5 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 - 2018 ___Long text generation via adversarial training with leaked information___ [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16360/16061)] __(LeakGAN)__
 
 - 2018 ___Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation___ [[pdf](http://www.aclweb.org/anthology/D18-1428)] __(DpGAN)__
+
+- 2018 ___SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks___ [[pdf](https://www.ijcai.org/proceedings/2018/0618.pdf)] __(SentiGAN)__
