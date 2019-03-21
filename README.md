@@ -15,11 +15,13 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2018 ___Survey of the state of the art in natural language generation: Core tasks, applications and evaluation___ [[link](https://www.jair.org/index.php/jair/article/view/11173)]
 
+---
 
+# Text Generation Model
 
 ## __Main__
 
-#### Classical
+#### __Classical__
 - 1997 ___Long short-term memory___ [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)] __(LSTM)__
 
 - 2003 ___A neural probabilistic language model___ [[pdf](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)] __(NNLM)__
@@ -34,7 +36,9 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2015 ___Scheduled sampling for sequence prediction with recurrent neural networks___ [[pdf](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)]
 
-#### Recently
+- 2017 ___Attention is all you need___ [[pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]
+
+#### __Recently__
 
 - 2019 ___Non-Monotonic Sequential Text Generation___ [[pdf](https://arxiv.org/pdf/1902.02192)]
 
@@ -69,3 +73,16 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 - 2018 ___Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation___ [[pdf](http://www.aclweb.org/anthology/D18-1428)] __(DpGAN)__
 
 - 2018 ___SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks___ [[pdf](https://www.ijcai.org/proceedings/2018/0618.pdf)] __(SentiGAN)__
+
+
+---
+
+# Image to Text
+
+#### __Classical__
+
+- 2015 ___Show, attend and tell: Neural image caption generation with visual attention___ [[pdf](http://proceedings.mlr.press/v37/xuc15.pdf)] __(ATTN)__
+
+- 2017 ___Self-critical sequence training for image captioning___ [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)] __(SCST)__
+
+#### __Recently__
