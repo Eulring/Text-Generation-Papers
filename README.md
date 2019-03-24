@@ -51,6 +51,12 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2017 ___Toward controlled generation of text___ [[pdf](https://arxiv.org/pdf/1703.00955.pdf)]
 
+- 2017 ___Improved variational autoencoders for text modeling using dilated convolutions___ [[pdf](https://arxiv.org/pdf/1702.08139.pdf)]
+
+- 2017 ___Variational Attention for Sequence-to-Sequence Models___ [[pdf](https://arxiv.org/pdf/1712.08207.pdf)]
+
+- 2018 ___Semi-Amortized Variational Autoencoders___ [[pdf](https://arxiv.org/pdf/1802.02550.pdf)]
+
 - 2018 ___Unsupervised natural language generation with denoising autoencoders___ [[pdf](https://arxiv.org/pdf/1804.07899)]
 
 
