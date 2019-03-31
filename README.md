@@ -28,9 +28,9 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2010 ___Recurrent neural network based language model___ [[pdf](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)] __(RNNLM)__
 
-- 2014 ___Sequence to sequence learning with neural networks___ [[pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)]
+- 2014 ___Sequence to sequence learning with neural networks___ [[pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)] __(seq2seq)__
 
-- 2014 ___Neural machine translation by jointly learning to align and translate___ [[pdf](https://arxiv.org/pdf/1409.0473)]
+- 2014 ___Neural machine translation by jointly learning to align and translate___ [[pdf](https://arxiv.org/pdf/1409.0473)] __(Attn)__
 
 - 2014 ___Learning phrase representations using RNN encoder-decoder for statistical machine translation___ [[pdf](https://arxiv.org/pdf/1406.1078.pdf)] __(GRU)__
 
@@ -58,6 +58,8 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 - 2018 ___Semi-Amortized Variational Autoencoders___ [[pdf](https://arxiv.org/pdf/1802.02550.pdf)]
 
 - 2018 ___Unsupervised natural language generation with denoising autoencoders___ [[pdf](https://arxiv.org/pdf/1804.07899)]
+
+- 2018 ___Latent alignment and variational attention___ [[pdf](https://arxiv.org/pdf/1807.03756.pdf)] __(Attn-VAE)__
 
 
 
