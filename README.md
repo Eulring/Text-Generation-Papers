@@ -21,7 +21,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 ## __Main__
 
-#### __Classical__
+#### __Classic__
 - 1997 ___Long short-term memory___ [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)] __(LSTM)__
 
 - 2003 ___A neural probabilistic language model___ [[pdf](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)] __(NNLM)__
@@ -87,9 +87,13 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 # Image to Text
 
-#### __Classical__
+#### __Classic__
 
 - 2015 ___Show, attend and tell: Neural image caption generation with visual attention___ [[pdf](http://proceedings.mlr.press/v37/xuc15.pdf)] __(ATTN)__
+
+- 2015 ___Show and tell: A neural image caption generator___ [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)] __(NIC)__
+
+- 2015 ___Deep visual-semantic alignments for generating image descriptions___ [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)]
 
 - 2017 ___Self-critical sequence training for image captioning___ [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)] __(SCST)__
 
