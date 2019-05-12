@@ -19,7 +19,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 # Text Generation Model
 
-## __Main__
+## __General__
 
 #### __Classic__
 - 1997 ___Long short-term memory___ [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)] __(LSTM)__
@@ -36,9 +36,13 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2015 ___Scheduled sampling for sequence prediction with recurrent neural networks___ [[pdf](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)]
 
+
+
 - 2017 ___Attention is all you need___ [[pdf](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]
 
-#### __Recently__
+#### __Others__
+
+- 2016 ___Controlling Output Length in Neural Encoder-Decoders___ [[pdf](https://arxiv.org/pdf/1609.09552.pdf?__hstc=36392319.43051b9659a07455a3db8391a8f20ea4.1480118400085.1480118400086.1480118400087.1&__hssc=36392319.1.1480118400088&__hsfp=528229161)]
 
 - 2019 ___Non-Monotonic Sequential Text Generation___ [[pdf](https://arxiv.org/pdf/1902.02192)]
 
@@ -95,6 +99,14 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 - 2015 ___Deep visual-semantic alignments for generating image descriptions___ [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)]
 
+- 2017 ___Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning___ [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)] __(Ada-ATTN)__
+
 - 2017 ___Self-critical sequence training for image captioning___ [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)] __(SCST)__
 
-#### __Recently__
+- 2017 ___Towards Diverse and Natural Image Descriptions via a Conditional GAN___ [[pdf](https://arxiv.org/pdf/1703.06029.pdf)]
+
+
+
+#### __Others__
+
+- 2018 ___Entity-aware Image Caption Generation___ [[pdf](https://arxiv.org/pdf/1804.07889.pdfs)]
