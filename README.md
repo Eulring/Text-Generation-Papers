@@ -1,5 +1,5 @@
 # Text-Generation-Papers
-Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / __Summarization__
+Paper collection of __Neural Text Generation__ tasks, may include __Image Caption__ / __Summarization__
 
 (working on it ......)
 
@@ -89,7 +89,7 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 
 ---
 
-# Image to Text
+# Image Caption
 
 #### __Classic__
 
@@ -110,3 +110,18 @@ Paper collection of __Neural Text Generation__ ,may include __Image Caption__ / 
 #### __Others__
 
 - 2018 ___Entity-aware Image Caption Generation___ [[pdf](https://arxiv.org/pdf/1804.07889.pdfs)]
+
+
+# Summarization
+
+## Reinforcement Learning
+
+- 2018 ___A Deep Reinforced Model for Abstractive Summarization___ [[pdf](https://openreview.net/pdf?id=HkAClQgA-)]
+
+- 2018 ___Improving Abstraction in Text Summarization___ [[pdf](https://arxiv.org/pdf/1808.07913.pdf)]
+
+- 2018 ___Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting___ [[pdf](https://arxiv.org/pdf/1805.11080.pdf)]
+
+- 2018 ___Multi-Reward Reinforced Summarization with Saliency and Entailment___ [[pdf](https://arxiv.org/pdf/1804.06451.pdf)]
+
+- 2018 ___Closed-Book Training to Improve Summarization Encoder Memory___ [[pdf](https://arxiv.org/pdf/1809.04585.pdf)]
